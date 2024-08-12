@@ -820,3 +820,11 @@ body{
 .certificates .card:hover img {
   transform: scale(1.2);
 }
+
+/* Styling for mobile phones */
+@media (max-width: 480px) {
+    .project1-content {
+        font-size: 12px;
+        margin: 5px;
+    }
+}
